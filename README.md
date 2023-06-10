@@ -1,6 +1,9 @@
-commands used in this project is nodemon and npm packages
+commands used in this project is nodemon and npm packages 
+
 npm install 
+
 npm install -g nodemon
+
 nodemon app.js
 
 # Cricket Team
