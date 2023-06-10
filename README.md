@@ -1,3 +1,8 @@
+commands used in this project is nodemon and npm packages
+npm install 
+npm install -g nodemon
+nodemon app.js
+
 # Cricket Team
 
 Given two files `app.js` and a database file `cricketTeam.db` consisting a table `cricket_team`.
